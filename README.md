@@ -1,6 +1,7 @@
-# vfox-plugin-template
+# `vfox-sqlite`
 
-This is a [vfox plugin](https://vfox.lhan.me/plugins/create/howto.html) template with CI that package and publish the plugin.
+[SQLite](https://sqlite.org/) plugin for [`vfox`](https://vfox.lhan.me/). Port of [asdf-sqlite](https://github.com/cLupus/asdf-sqlite).
+
 
 ## Usage
 
